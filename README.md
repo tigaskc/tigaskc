@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🪖 ex-CMC
-👨‍💻 developer by:
-🎓 UFPR
-❄️🔥 Curitiba/Fortaleza
+#🪖 ex-CMC
+#👨‍💻 developer by:
+#🎓 UFPR
+#❄️🔥 Curitiba/Fortaleza
 
